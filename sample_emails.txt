@@ -1,0 +1,9 @@
+Contact us at support@example.com
+
+For business inquiries email business@example.com
+
+You can also contact admin@test.com
+
+Student email: student123@gmail.com
+
+For support email support@example.com

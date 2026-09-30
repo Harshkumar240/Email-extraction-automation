@@ -1,0 +1,4 @@
+student123@gmail.com
+business@example.com
+support@example.com
+admin@test.com
